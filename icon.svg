@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg style="background:#1d3557" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" aria-label="Coony the raccoon"><rect width="100" height="100" fill="#1d3557"/>
+  <path d="M18 92 Q50 74 82 92 L82 100 L18 100 Z" fill="#f28c28"/>
+  <path d="M42 80 L50 90 L58 80" fill="none" stroke="#1d3557" stroke-width="3"/>
+  <ellipse cx="22" cy="24" rx="12" ry="14" fill="#7d838d"/>
+  <ellipse cx="78" cy="24" rx="12" ry="14" fill="#7d838d"/>
+  <ellipse cx="22" cy="26" rx="6" ry="8" fill="#2d3038"/>
+  <ellipse cx="78" cy="26" rx="6" ry="8" fill="#2d3038"/>
+  <ellipse cx="50" cy="52" rx="36" ry="32" fill="#9aa0a9"/>
+  <ellipse cx="50" cy="64" rx="24" ry="18" fill="#f1f2f4"/>
+  <path d="M16 46 Q30 34 46 44 Q50 47 54 44 Q70 34 84 46 Q80 60 66 58 Q56 56 50 52 Q44 56 34 58 Q20 60 16 46 Z" fill="#2d3038"/>
+  <circle cx="34" cy="48" r="6.5" fill="#fff"/><circle cx="66" cy="48" r="6.5" fill="#fff"/>
+  <circle cx="35" cy="49" r="3.4" fill="#111"/><circle cx="65" cy="49" r="3.4" fill="#111"/>
+  <circle cx="36" cy="47.6" r="1.1" fill="#fff"/><circle cx="66" cy="47.6" r="1.1" fill="#fff"/>
+  <ellipse cx="50" cy="62" rx="6" ry="4.5" fill="#1b1b1f"/>
+  <path d="M42 70 Q50 77 58 70" stroke="#222" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M30 30 Q50 22 70 30" stroke="#c9ccd1" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

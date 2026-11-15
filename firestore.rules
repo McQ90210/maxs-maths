@@ -1,0 +1,12 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Only Max's account can read or write, and only his own data.
+    match /players/{uid}/{document=**} {
+      allow read, write: if request.auth != null
+                         && request.auth.uid == uid
+                         && uid == "uSeIvkojPXeMkHp6urzeRnkwdNy1";
+    }
+    // Everything else stays locked.
+  }
+}
